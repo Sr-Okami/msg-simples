@@ -1,0 +1,32 @@
+.msg{
+  color: coral;
+  background-color: blueviolet;
+  display: flex;
+  justify-content: center;
+}
+.msg-texto{
+  padding: 15px;
+  font-size: 36px;
+}
+.areabutao{
+  display: flex;
+  padding-top: 20px;
+  justify-content: center;
+  gap: 5px;
+}
+.butao{
+  padding: 10px;
+  text-transform: uppercase;
+  color: white;
+  background-color: green;
+  border-radius: 14px;
+  cursor: pointer;
+}
+.resetar{
+  padding: 10px;
+  text-transform: uppercase;
+  color: white;
+  background-color: red;
+  border-radius: 14px;
+  cursor: pointer;
+}
